@@ -18,7 +18,6 @@ manifest:
           - zephyr
           - cmsis
           - mbedtls
-          - mbedtls-nrf
           - mcuboot
           - net-tools
           - qcbor
