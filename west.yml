@@ -2,12 +2,12 @@
 # SPDX-License-Identifier: Apache-2.0
 
 manifest:
-  version: 0.8
+  version: 1.2
 
   projects:
     - name: golioth
       path: modules/lib/golioth-firmware-sdk
-      revision: v0.11.1
+      revision: v0.12.2
       url: https://github.com/golioth/golioth-firmware-sdk.git
       west-commands: scripts/west-commands.yml
       submodules: true
